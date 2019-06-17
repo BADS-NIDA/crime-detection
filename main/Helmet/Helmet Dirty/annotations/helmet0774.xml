@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>helmet0774.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>640</width>
+    <height>360</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>helmet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>338</xmin>
+      <ymin>128</ymin>
+      <xmax>427</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>helmet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>137</xmin>
+      <ymin>62</ymin>
+      <xmax>201</xmax>
+      <ymax>119</ymax>
+    </bndbox>
+  </object>
+</annotation>
