@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000008981.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/train2017/000000008981.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>485</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>349.55</xmin>
+      <ymin>179.32</ymin>
+      <xmax>385.97</xmax>
+      <ymax>236.41</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>surfboard</name>
+    <bndbox>
+      <xmin>352.89</xmin>
+      <ymin>229.25</ymin>
+      <xmax>405.12</xmax>
+      <ymax>245.42000000000002</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>
