@@ -1,0 +1,22 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>gun (396).jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>99</width>
+		<height>93</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>38</ymin>
+			<xmax>75</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>
