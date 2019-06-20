@@ -1,5 +1,5 @@
 # Prepare Environment
-
+- เตรียมโปรแกรมต่างๆ สำหรับการทำ Crime Detection ใน Project นี้ ด้วยขั้นตอนดังต่อไปนี้
 ## 1. Clone Darkflow Repository
 git : https://github.com/thtrieu/darkflow
 
