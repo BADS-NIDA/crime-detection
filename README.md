@@ -48,7 +48,8 @@
 - แก้ไขไฟล์ `cfg/ tiny-yolo-voc.cfg` ใน layer สุดท้าย แก้ `node=35` และ `class=3` ตั้งชื่อไฟล์ใหม่เป็น `tiny-yolo-voc-3c.cfg`
 
 - สร้าง folder train (จาก Dark flow Folder Path ที่ทำการ Clone มา) 
-  โดยมี subfolder ชื่อ images สำหรับไฟล์รูป annotations สำหรับ label
+  โดยมี subfolder ชื่อ images สำหรับไฟล์รูป annotations สำหรับ label และ แก้ไข label.txt เป็นชื่อ class ต่างๆ เช่น helmet gun person
+  
 - ทำการ train model ด้วยคำสั่งดังต่อไปนี้
    ```
    python flow 
