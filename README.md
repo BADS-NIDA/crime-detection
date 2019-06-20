@@ -38,7 +38,12 @@
       - pip install tensorflow-gpu==1.10.0
       - pip install keras
       ```
-
+# Train Model
+- ขั้นตอนการ train ดาวน์โหลด tiny-yolo-voc weight จาก 
+  ```
+   https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU
+  ```
+  ใส่ใน folder ชื่อ bin (จาก Dark flow ที่ทำการ Clone มา)
     
 # Run Crime Detection
 - เมื่อเตรียมข้อมูลทั้งหมดเสร็จแล้ว ทำการทดสอบโปรแกรมเบื้องต้นว่าสามารถทำงานได้ โดยใส่ชื่อไฟล์ video หลัง -- demo
