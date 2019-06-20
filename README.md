@@ -20,6 +20,6 @@
 - conda create -n mytf python=3.6 anaconda
 - activate mytf
   - pip install opencv-contrib-python
-  - pip install tensorflow=1.10.0
-  - pip install tensorflow-gpu=1.10.0
-  - pip install keras=1.10.0
+  - pip install tensorflow==1.10.0
+  - pip install tensorflow-gpu==1.10.0
+  - pip install keras
