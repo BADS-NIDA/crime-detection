@@ -14,9 +14,9 @@
       ```
 
   ### 2. Clone labelImg Repository
-  - xxx
-   ```
-      git clone https://github.com/tzutalin/labelImg
+  - yyyy
+      ```
+       git clone https://github.com/tzutalin/labelImg
       ```
 
   ### 3. Install Programs
