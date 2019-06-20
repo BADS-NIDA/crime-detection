@@ -43,10 +43,15 @@
 # Run Crime Detection
 - เมื่อเตรียมข้อมูลทั้งหมดเสร็จแล้ว ทำการทดสอบโปรแกรมเบื้องต้นว่าสามารถทำงานได้ โดใส่ชื่อไฟล์ video หลัง -- demo
     ```
-     python flow --model <PATH_CONFIG_FILES> --load <PATH_WEIGHTS_FILES> --demo <PATH_VIDEO_FILES> --gpu 0.8 --saveVideo
+     python flow 
+     --model <PATH_CONFIG_FILES> 
+     --load <PATH_WEIGHTS_FILES> 
+     --demo <PATH_VIDEO_FILES> 
+     --gpu 0.8 
+     --saveVideo
     ```
    เช่น
     ```
      python flow --model cfg/yolo.cfg --load bin/yolo.weights --demo gun4_2.mp4 --gpu 0.8 --saveVideo
       ```
-
+- จากนั้นทำการ
