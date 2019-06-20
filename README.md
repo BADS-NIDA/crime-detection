@@ -1,6 +1,9 @@
 # Introduction Crime Detection 
 - xxxxxxx
 
+![BANDS-NIDA](https://user-images.githubusercontent.com/25294734/59873745-dd78cd00-93c6-11e9-8b0f-21ca3926767c.png)
+
+
 
 # Prepare Environment
 - เตรียมโปรแกรมต่างๆ สำหรับการทำ Crime Detection ใน Project นี้ ด้วยขั้นตอนดังต่อไปนี้
