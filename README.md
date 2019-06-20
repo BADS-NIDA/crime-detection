@@ -8,13 +8,13 @@
 # Prepare Environment
 - เตรียมโปรแกรมต่างๆ สำหรับการทำ Crime Detection ใน Project นี้ ด้วยขั้นตอนดังต่อไปนี้
   ### 1. Clone Darkflow Repository
-  - xxx
+  - เพื่อ build framwork darknet yolo ที่มี tensorflow เป็น backend
      ```
       git clone https://github.com/thtrieu/darkflow
       ```
 
   ### 2. Clone labelImg Repository
-  - yyyy
+  - เพื่อ สร้าง Label ของ Dataset ที่เป็น Images
       ```
        git clone https://github.com/tzutalin/labelImg
       ```
@@ -41,7 +41,7 @@
 
     
 # Run Crime Detection
-- เมื่อเตรียมข้อมูลทั้งหมดเสร็จแล้ว ทำการทดสอบโปรแกรมเบื้องต้นว่าสามารถทำงานได้ โดใส่ชื่อไฟล์ video หลัง -- demo
+- เมื่อเตรียมข้อมูลทั้งหมดเสร็จแล้ว ทำการทดสอบโปรแกรมเบื้องต้นว่าสามารถทำงานได้ โดยใส่ชื่อไฟล์ video หลัง -- demo
     ```
      python flow 
      --model <PATH_CONFIG_FILES> 
