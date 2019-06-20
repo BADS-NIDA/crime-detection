@@ -19,10 +19,13 @@
   ### 4. Install Tensorflow GPU
   - conda create -n mytf python=3.6 anaconda
   - activate mytf
-    - pip install opencv-contrib-python
-    - pip install tensorflow==1.10.0
-    - pip install tensorflow-gpu==1.10.0
-    - pip install keras
+     ```
+      - pip install opencv-contrib-python
+      - pip install tensorflow==1.10.0
+      - pip install tensorflow-gpu==1.10.0
+      - pip install keras
+      ```
+
     
 # Run Crime Detection
 - เมื่อเตรียมข้อมูลทั้งหมดเสร็จแล้ว สามารถทำการสร้าง model ได้ด้วยคำสั่งต่อไปนี้ 
