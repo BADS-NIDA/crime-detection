@@ -1,0 +1,46 @@
+<annotation>
+  <folder>images</folder>
+  <filename>gun (2943).jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>540</width>
+    <height>366</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>helmet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>187</xmin>
+      <ymin>97</ymin>
+      <xmax>297</xmax>
+      <ymax>211</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>helmet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>406</xmin>
+      <ymin>45</ymin>
+      <xmax>471</xmax>
+      <ymax>121</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>helmet</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>310</xmin>
+      <ymin>277</ymin>
+      <xmax>466</xmax>
+      <ymax>326</ymax>
+    </bndbox>
+  </object>
+</annotation>

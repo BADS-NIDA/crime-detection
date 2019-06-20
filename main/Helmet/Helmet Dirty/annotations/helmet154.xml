@@ -1,0 +1,10 @@
+<annotation>
+  <folder>images</folder>
+  <filename>helmet154.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+</annotation>

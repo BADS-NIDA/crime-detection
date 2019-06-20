@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/truck</folder>
+  <filename>000000001102.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/train2017/000000001102.jpg</url>
+  </source>
+  <size>
+    <width>424</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>truck</name>
+    <bndbox>
+      <xmin>268.77</xmin>
+      <ymin>282.71</ymin>
+      <xmax>424.0</xmax>
+      <ymax>363.89</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>175.83</xmin>
+      <ymin>378.2</ymin>
+      <xmax>207.11</xmax>
+      <ymax>449.69</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>snowboard</name>
+    <bndbox>
+      <xmin>165.81</xmin>
+      <ymin>444.88</ymin>
+      <xmax>229.38</xmax>
+      <ymax>453.23</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>
