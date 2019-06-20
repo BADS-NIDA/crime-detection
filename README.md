@@ -3,12 +3,20 @@
 ## 1. Clone Darkflow Repository
 - https://github.com/thtrieu/darkflow
 
-## 2. Install Programs
-- Install Visual Studio Community 2019
-- Install CUDA toolkit 9.0
-- Install Cudadnn 7.4.2
+## 2. Clone labelImg Repository
+- https://github.com/tzutalin/labelImg
 
-## 3. Install Tensorflow GPU
+## 3. Install Programs
+- Install Visual Studio Community 2019
+  - https://visualstudio.microsoft.com/downloads/
+  
+- Install CUDA toolkit 9.0
+  - https://developer.nvidia.com/cuda-toolkit-archive
+
+- Install Cudadnn 7.4.2
+  - https://developer.nvidia.com/cudnn
+  
+## 4. Install Tensorflow GPU
 - conda create -n mytf python=3.6 anaconda
 - activate mytf
 - pip install opencv-contrib-python
