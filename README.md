@@ -8,7 +8,7 @@
 - Install CUDA toolkit 9.0
 - Install Cudadnn 7.4.2
 
-## 3. xxxx
+## 3. Install Tensorflow GPU
 - conda create -n mytf python=3.6 anaconda
 - activate mytf
 - pip install opencv-contrib-python
