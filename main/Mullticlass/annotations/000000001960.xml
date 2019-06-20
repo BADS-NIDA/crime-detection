@@ -1,0 +1,76 @@
+<annotation>
+  <folder>VOC2014_instance/sports ball</folder>
+  <filename>000000001960.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/train2017/000000001960.jpg</url>
+  </source>
+  <size>
+    <width>427</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>50.9</xmin>
+      <ymin>438.86</ymin>
+      <xmax>108.82</xmax>
+      <ymax>494.77</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>107.63</xmin>
+      <ymin>346.07</ymin>
+      <xmax>402.31</xmax>
+      <ymax>640.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>79.1</xmin>
+      <ymin>140.94</ymin>
+      <xmax>273.26</xmax>
+      <ymax>516.31</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>20.34</xmin>
+      <ymin>39.69</ymin>
+      <xmax>95.45</xmax>
+      <ymax>182.10999999999999</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>38.84</ymin>
+      <xmax>15.57</xmax>
+      <ymax>162.47</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>299.82</xmin>
+      <ymin>0.72</ymin>
+      <xmax>386.31</xmax>
+      <ymax>193.87</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

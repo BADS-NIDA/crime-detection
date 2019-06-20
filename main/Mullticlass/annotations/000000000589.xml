@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/frisbee</folder>
+  <filename>000000000589.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/train2017/000000000589.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>frisbee</name>
+    <bndbox>
+      <xmin>463.86</xmin>
+      <ymin>229.41</ymin>
+      <xmax>482.61</xmax>
+      <ymax>235.71</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>347.91</xmin>
+      <ymin>184.57</ymin>
+      <xmax>493.34000000000003</xmax>
+      <ymax>368.86</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

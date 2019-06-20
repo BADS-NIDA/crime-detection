@@ -1,0 +1,36 @@
+<annotation>
+  <folder>VOC2014_instance/tie</folder>
+  <filename>000000001579.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/train2017/000000001579.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>258</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tie</name>
+    <bndbox>
+      <xmin>289.13</xmin>
+      <ymin>17.34</ymin>
+      <xmax>352.63</xmax>
+      <ymax>258.0</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>152.48</xmin>
+      <ymin>1.16</ymin>
+      <xmax>493.39</xmax>
+      <ymax>253.35999999999999</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

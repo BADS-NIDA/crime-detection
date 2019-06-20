@@ -1,0 +1,46 @@
+<annotation>
+  <folder>VOC2014_instance/person</folder>
+  <filename>000000000510.jpg</filename>
+  <source>
+    <database>MS COCO 2014</database>
+    <annotation>MS COCO 2014</annotation>
+    <image>Flickr</image>
+    <url>http://images.cocodataset.org/train2017/000000000510.jpg</url>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>254.05</xmin>
+      <ymin>130.27</ymin>
+      <xmax>405.41</xmax>
+      <ymax>428.65</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>bench</name>
+    <bndbox>
+      <xmin>42.07</xmin>
+      <ymin>226.52</ymin>
+      <xmax>609.44</xmax>
+      <ymax>428.22</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>15.1</xmin>
+      <ymin>9.71</ymin>
+      <xmax>51.78</xmax>
+      <ymax>66.88</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>

@@ -1,0 +1,34 @@
+<annotation>
+  <folder>2001-2500</folder>
+  <filename>gun2014.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>808</width>
+    <height>606</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>gun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>68</xmin>
+      <ymin>183</ymin>
+      <xmax>508</xmax>
+      <ymax>471</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>gun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>289</xmin>
+      <ymin>67</ymin>
+      <xmax>772</xmax>
+      <ymax>345</ymax>
+    </bndbox>
+  </object>
+</annotation>
