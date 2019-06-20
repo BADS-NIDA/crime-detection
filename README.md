@@ -50,15 +50,15 @@
 - สร้าง folder train (จาก Dark flow Folder Path ที่ทำการ Clone มา) 
   โดยมี subfolder ชื่อ images สำหรับไฟล์รูป annotations สำหรับ label
 - ทำการ train model ด้วยคำสั่งดังต่อไปนี้
- ```
- python flow 
- --model cfg/tiny-yolo-voc-3c.cfg 
- --load bin/tiny-yolo-voc.weights 
- --train --annotation train\annotations 
- --dataset train\images 
- --gpu 0.7 
- --epoch 500
-  ```
+   ```
+   python flow 
+   --model cfg/tiny-yolo-voc-3c.cfg 
+   --load bin/tiny-yolo-voc.weights 
+   --train --annotation train\annotations 
+   --dataset train\images 
+   --gpu 0.7 
+   --epoch 500
+    ```
     
 # Run Crime Detection
 - เมื่อเตรียมข้อมูลทั้งหมดเสร็จแล้ว ทำการทดสอบโปรแกรมเบื้องต้นว่าสามารถทำงานได้ โดยใส่ชื่อไฟล์ video หลัง -- demo
