@@ -8,10 +8,16 @@
 # Prepare Environment
 - เตรียมโปรแกรมต่างๆ สำหรับการทำ Crime Detection ใน Project นี้ ด้วยขั้นตอนดังต่อไปนี้
   ### 1. Clone Darkflow Repository
-  - https://github.com/thtrieu/darkflow
+  - xxx
+     ```
+      git clone https://github.com/thtrieu/darkflow
+      ```
 
   ### 2. Clone labelImg Repository
-  - https://github.com/tzutalin/labelImg
+  - xxx
+   ```
+      git clone https://github.com/tzutalin/labelImg
+      ```
 
   ### 3. Install Programs
   - Install Visual Studio Community 2019
