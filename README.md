@@ -4,6 +4,9 @@
 ![prayut](https://user-images.githubusercontent.com/25294734/59875651-7a3d6980-93cb-11e9-8e17-6caf945682eb.gif)
 ![ezgif com-resize](https://user-images.githubusercontent.com/25294734/59877426-06ea2680-93d0-11e9-8f55-afe3782240d6.gif)
 
+![ezgif com-resize](https://user-images.githubusercontent.com/25294734/59958152-1189e600-94cc-11e9-894b-9d2880212489.gif)
+
+
 # Prepare Environment
 - เตรียมโปรแกรมต่างๆ สำหรับการทำ Crime Detection ใน Project นี้ ด้วยขั้นตอนดังต่อไปนี้
   ### 1. Clone Darkflow Repository
