@@ -85,6 +85,7 @@
      https://drive.google.com/file/d/1FsABUzIPKLd-_YGkgG-cyBHsdymo8N-8/view
     ```
 - จากนั้นทำการ run python file read_video.py สำหรับทดสอบการทำงานกับ video file
+  หากต้องการ run บน webcam ก็สามารถทำได้โดย run python file read_cam.py สำหรับทดสอบการทำงานกับ web cam
 
 
  
