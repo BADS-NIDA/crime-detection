@@ -79,3 +79,7 @@
     ```
      python flow --model cfg/yolo.cfg --load bin/yolo.weights --demo gun4_2.mp4 --gpu 0.8 --saveVideo
     ```
+- จากนั้นทำการ download file weights และ ตั้งชื่อ Folder ว่า ckpt พร้อมนำ file เข้าไปวาง
+    ```
+     https://drive.google.com/file/d/1FsABUzIPKLd-_YGkgG-cyBHsdymo8N-8/view
+    ```
