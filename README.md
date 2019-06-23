@@ -1,6 +1,14 @@
 # Introduction Crime Detection 
 - วิธีการใช้สร้าง Object detection model สำหรับการตรวบจับการก่อเหตุอาชญกรรม ได้แก่การตรวจจับหมวกกันน็อค อาวุธปืน โดยโช้ YOLOv2 เป็นอัลกอริทึมในการทำ detections โดยมี TensorFlow GPU เป็น Backend
 
+#### รายชื่อ contributors
+1. นายนราชันย์ ปัญญาจักร 61104220029
+2. นายชลัช มงคลถิรภัทร์ 6110422032
+3. นายอติเทพ กิติธีระกุล 6110422047
+4. นายธนา ธารารัตน์พิสัย 6110422054
+5. นายยงยุทธ ละมูลมอญ 6110422055
+
+
 ![prayut](https://user-images.githubusercontent.com/25294734/59875651-7a3d6980-93cb-11e9-8e17-6caf945682eb.gif)
 ![ezgif com-resize](https://user-images.githubusercontent.com/25294734/59877426-06ea2680-93d0-11e9-8f55-afe3782240d6.gif)
 
